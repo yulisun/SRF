@@ -1,7 +1,7 @@
 # SRF
 MATLAB Code for Structural Regression Fusion for Heterogeneous Change Detection. It will be released after the paper is accepted.
 
-## Available datasets and Graph Cut algorithm
+## Related supporting algorithms
 
 The graphCut algorithm is download from Professor Anton Osokin's webpage at https://github.com/aosokin/graphCutMex_BoykovKolmogorov.
 
