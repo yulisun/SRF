@@ -13,7 +13,7 @@ If you use these resources, please cite their relevant papers.
 
 If you use this code for your research, please cite our paper. Thank you!
 
-@ARTICLE{SunStructural2023, 
+@ARTICLE{SunStructural2023,  
   author={Sun, Yuli and Lei, Lin and Liu, Li and Kuang, Gangyao},  
   journal={IEEE Transactions on Geoscience and Remote Sensing},   
   title={Structural Regression Fusion for Unsupervised Multimodal Change Detection},   
