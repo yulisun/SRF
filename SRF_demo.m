@@ -3,7 +3,7 @@ close all
 addpath(genpath(pwd))
 %% load dataset
 % dataset#1 to dataset#6
-dataset = 'dataset#6';
+dataset = 'dataset#1';
 Load_dataset % For other datasets, we recommend a similar pre-processing as in "Load_dataset"
 fprintf(['\n Data loading is completed...... ' '\n'])
 %% Parameter setting
