@@ -45,8 +45,6 @@ fprintf('\n');fprintf('The total computational time of SRF is %i \n' ,etime(cloc
 fprintf(['\n' '====================================================================== ' '\n'])
 %% Displaying results
 fprintf(['\n Displaying the results...... ' '\n'])
-[tp,fp,tn,fn,fplv,fnlv,~,~,pcc,kappa,imw]=performance(CM,Ref_gt);
-F1 = 2*tp/(2*tp+fp+fn);
 figure;
 subplot(331);imshow(image_t1);title('original imgt1')
 subplot(332);imshow(image_t2);title('original imgt2')
